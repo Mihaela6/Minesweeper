@@ -1,17 +1,6 @@
-# PichagaBet
+Minesweeper
+   School project
 
-Casino featuring 3 game - roulette, aviator and blackjack
-## Features
+   git clone [https://github.com/Mihaela6/Minesweeper.git]
 
-- Super complex casino
-- Usage of java23
-- School project
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ivo887/PichagaBet.git
-
-## Contributors
-Ivaylo Iordanov and Martin Kovachki
+Pavel Mitrev Mihaela Ilieva
